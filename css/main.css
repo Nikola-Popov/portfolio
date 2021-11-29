@@ -14,3 +14,7 @@
 }
 
 ul.nav a:hover { color: black !important; }
+
+.nav-link {
+  font-size: large;
+}
